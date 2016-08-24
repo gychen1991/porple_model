@@ -20,10 +20,12 @@ Python version: support more flexible memory hierarchy of GPU hardwares;
 			 1. http://research.csc.ncsu.edu/nc-caps/gchen11/micro14.pdf
 
 To compile:
+
 	cd c++
 	make
 
 To run:
+
 	cd c++ or python
 	configure.py configure.txt ../test_traces/mm_stride.txt
 
