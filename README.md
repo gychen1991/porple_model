@@ -11,16 +11,13 @@ configure.txt records memory hierarchy of GPU hardware
 test_traces: array access traces collected from running GPU kernels.
 
 C++ version: support surface memory and more accurate model,
-             More details in paper:
-             
-              http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7106396&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7106396
-              
-              http://research.csc.ncsu.edu/nc-caps/gchen11/ics16.pdf
+More details in paper:
+http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7106396&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7106396
+http://research.csc.ncsu.edu/nc-caps/gchen11/ics16.pdf
 
 Python version: support more flexible memory hierarchy of GPU hardwares;
-             More details see paper:
-             
-             http://research.csc.ncsu.edu/nc-caps/gchen11/micro14.pdf
+More details see paper:
+http://research.csc.ncsu.edu/nc-caps/gchen11/micro14.pdf
 
 To compile:
 
