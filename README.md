@@ -7,7 +7,7 @@ There are two versions of the tool: python and c++;
 
 In both versions, we have:
 
-configure.py: script to run all estimation;
+configure.py: script to run all estimations;
 
 configure.txt: records memory hierarchy of GPU hardware
 
